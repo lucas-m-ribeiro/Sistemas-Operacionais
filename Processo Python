@@ -1,9 +1,0 @@
-import os
-os.startfile("C:\Program Files\Oracle\VirtualBox\VirtualBox.exe")
-
-#para abrir um processo em Python devemos importar a biblioteca "os" e logo em
-#seguida usar o comando "startfile" onde iniciara um novo processo executando um novo
-#programa
-
-#neste exemplo acima foi usado o programa virtualBox, para ser executado.
-
